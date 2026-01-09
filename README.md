@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me
+
 ### 👨‍💻 About Me
 - 💼 **Azure DevOps Engineer**
 - ☸️ Working with **Kubernetes (K8s), Helm & ArgoCD**
