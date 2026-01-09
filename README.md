@@ -6,9 +6,10 @@
 
 ### 👨‍💻 About Me
 - 💼 **Azure DevOps Engineer**
-- ☸️ Working with **Kubernetes (K8s), Helm & ArgoCD**
-- 📊 Monitoring using **Prometheus & Grafana**
-- 🚀 CI/CD pipeline automation & GitOps practices
+- 🔧 Hands-on with **Git, Terraform & Azure DevOps (ADO)**
+- 🚀 Designing & maintaining **CI/CD pipelines**
+- ☁️ Infrastructure as Code using **Terraform**
+- 🔄 GitOps-based deployments with modern tooling
 - 📫 Email: **samaljyotiranjan24@gmail.com**
 
 
@@ -24,6 +25,11 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitOps-21A366?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
