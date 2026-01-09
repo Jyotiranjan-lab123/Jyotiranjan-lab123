@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jyoti Ranjan Samal</h1>
-<h3 align="center">Azure DevOps Engineer | Cloud & Web Technologies</h3>
+<h3 align="center">Azure DevOps Engineer </h3>
 
 ---
 
