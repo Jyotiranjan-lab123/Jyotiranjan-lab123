@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 💼 Software / Web Developer  
+- 💼 Azure Devops Engineer 
 - 🌱 Currently learning **Modern Web Technologies**
 - 💡 Interested in **Frontend & Backend Development**
 - 📫 Reach me at: **your-email@example.com**
