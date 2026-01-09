@@ -4,10 +4,13 @@
 ---
 
 ### 👨‍💻 About Me
+### 👨‍💻 About Me
 - 💼 **Azure DevOps Engineer**
-- 🌱 Currently learning **Advanced DevOps & Cloud Technologies**
-- ⚙️ Interested in **CI/CD, Cloud Automation & Monitoring**
-- 📫 Reach me at: **samaljyotiranjan24@gmail.com**
+- ☸️ Working with **Kubernetes (K8s), Helm & ArgoCD**
+- 📊 Monitoring using **Prometheus & Grafana**
+- 🚀 CI/CD pipeline automation & GitOps practices
+- 📫 Email: **samaljyotiranjan24@gmail.com**
+
 
 ---
 
